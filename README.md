@@ -15,12 +15,13 @@ just going through the various tickers and having it go through several loops, I
 
 Refactored Code:
 
-(![refactored_code](https://user-images.githubusercontent.com/75768098/103468248-90481c00-4d1c-11eb-9fc3-226ffa2a4b47.png)
+![refactored_code](https://user-images.githubusercontent.com/75768098/103468457-b2429e00-4d1e-11eb-9850-89c8d299a3aa.png)
+
 
 
 Original Code for 2017 and 2018:
 
-(![unfactored_2017](https://user-images.githubusercontent.com/75768098/103468277-0ba9cd80-4d1d-11eb-89a5-86df0ac8bcd3.png)(![unfactored_2018](https://user-images.githubusercontent.com/75768098/103468281-15333580-4d1d-11eb-8199-91267a6877a8.png)
+![unfactored_2017](https://user-images.githubusercontent.com/75768098/103468277-0ba9cd80-4d1d-11eb-89a5-86df0ac8bcd3.png)![unfactored_2018](https://user-images.githubusercontent.com/75768098/103468281-15333580-4d1d-11eb-8199-91267a6877a8.png)
 
 
 
